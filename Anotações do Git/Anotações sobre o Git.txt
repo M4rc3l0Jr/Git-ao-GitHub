@@ -1,0 +1,16 @@
+Link para dowload do Git: https://git-scm.com/downloads
+
+Comandos:
+Ls - Lista tudo que está no diretório
+cd (nome do arquivo) - Entra na pasta 
+Ctrl + L - Para lipar a tela
+mkdir (nome do arquivo que você quer criar) - Cria um novo arquivo
+git init - Inicia um reposítorio dentro do diretório
+ls -a/. - Lista todos os arquivos ocultos
+git config - Seta somente no repositório que está
+git config --global - Seta em tudo
+git config --global user.email - Seta um e-mail que você utilizará (indicado usar o e-mail do GitHub)
+gti config --global user.name - Seta o nome que você utilizará (indicado usar o nickname do GitHub)
+git add * - Para adicionar tudo no repositório do Git
+git commit -m "(texto)" - mensagem de texto do commit
+
